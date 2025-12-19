@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glowature</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            text-align: center; 
+            margin-top: 100px; 
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        h1 {
+            color: #ff6b6b;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Glowature.com</h1>
+    <p>This site is running on Cloudflare Pages!</p>
+    <p>Feel free to edit this page and add your own content.</p>
+</body>
+</html>
